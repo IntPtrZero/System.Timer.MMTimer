@@ -1,0 +1,8 @@
+E:\Projects\VB.NET\System.Timer.MmTimer\bin\Debug\System.Timer.MmTimer.dll
+E:\Projects\VB.NET\System.Timer.MmTimer\bin\Debug\System.Timer.MmTimer.pdb
+E:\Projects\VB.NET\System.Timer.MmTimer\bin\Debug\System.Timer.MmTimer.xml
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Debug\System.Timer.MmTimer.Resources.resources
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Debug\System.Timer.MmTimer.vbproj.GenerateResource.Cache
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Debug\System.Timer.MmTimer.dll
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Debug\System.Timer.MmTimer.xml
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Debug\System.Timer.MmTimer.pdb
