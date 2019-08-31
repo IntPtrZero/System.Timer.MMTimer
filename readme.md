@@ -14,4 +14,5 @@
 
 *参见[MSDN - Multimedia Timer](https://docs.microsoft.com/en-us/previous-versions//ms712704%28v%3dvs.85%29)*  
 
+:warning:
 **警告：该组件使用的API可能被未来版本的Windows弃用**
