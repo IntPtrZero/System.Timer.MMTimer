@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+System.Timer.MmTimer
+</name>
+</assembly>
+<members>
+<member name="E:System.Timer.MmTimer.MMTimer.Tick">
+	<summary>
+ 计时器到期时引发事件
+ </summary>
+	<remarks></remarks>
+</member><member name="P:System.Timer.MmTimer.MMTimer.Enabled">
+	<summary>
+ 获取或设置计时器是否正在运行
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:System.Timer.MmTimer.MMTimer.Interval">
+	<summary>
+ Tick事件的频率(以毫秒为单位)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:System.Timer.MmTimer.MMTimer.PeriodMin">
+	<summary>
+ 计时器的最小精度(以毫秒为单位)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:System.Timer.MmTimer.MMTimer.PeriodMax">
+	<summary>
+ 计时器的最大精度(以毫秒为单位)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:System.Timer.MmTimer.MMTimer.Resolution">
+	<summary>
+ 时钟的精度(以毫秒为单位)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:System.Timer.MmTimer.MMTimer.Start">
+	<summary>
+ 启动计时器
+ </summary>
+	<remarks></remarks>
+</member><member name="M:System.Timer.MmTimer.MMTimer.Stop">
+	<summary>
+ 停止计时器
+ </summary>
+	<remarks></remarks>
+</member><member name="M:System.Timer.MmTimer.MMTimer.Dispose">
+	<summary>
+ 释放由 System.ComponentModel.Component 使用的所有资源
+ </summary>
+	<remarks></remarks>
+</member><member name="P:System.Timer.MmTimer.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:System.Timer.MmTimer.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:System.Timer.MmTimer.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

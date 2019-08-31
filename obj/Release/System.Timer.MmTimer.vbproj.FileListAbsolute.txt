@@ -1,0 +1,6 @@
+E:\Projects\VB.NET\System.Timer.MmTimer\bin\Release\System.Timer.MmTimer.dll
+E:\Projects\VB.NET\System.Timer.MmTimer\bin\Release\System.Timer.MmTimer.xml
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Release\System.Timer.MmTimer.Resources.resources
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Release\System.Timer.MmTimer.vbproj.GenerateResource.Cache
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Release\System.Timer.MmTimer.dll
+E:\Projects\VB.NET\System.Timer.MmTimer\obj\Release\System.Timer.MmTimer.xml
